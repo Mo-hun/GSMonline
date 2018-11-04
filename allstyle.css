@@ -1,0 +1,65 @@
+*{
+  font-family: 나눔고딕;
+}
+#LOGO {
+  font-size:50pt;
+}
+#MENU{
+  text-align: center;
+}
+hr {
+  width : 100%;
+  height: 2px;
+  background: black;
+}
+#bar{
+  color: hotpink;
+  font-size: 20pt;
+  margin: 0px;
+}
+a{
+  text-decoration:none ; color: hotpink;
+}
+.high-bar{
+  text-align: right;
+}
+#box{
+   position: absolute;
+   top:50%; left:50%;
+   padding: 6px 9px 6px 6px;
+   margin-top:-115px; margin-left: -187.5px;
+   width:375px; height:230px;
+   background: white; border:3px solid white;
+   border-radius: 30px; font-size: 45px;
+   font-weight: bold; text-align: center;
+}
+div > img {
+  width: 150px;
+  margin-top: 15px;
+}
+.IDPW { font-size: 15px; }
+
+.form3 { float: left; }
+.form3 label {
+ width: 150px;
+ height: 30px;
+ float: left;
+}
+.clear { clear: both; }
+  input[type="text"] {
+    font-size: 20px;
+    margin: 4px;
+  }
+  input[type="password"] {
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
+  input[type="submit"] {
+   float: right;
+   height: 70px;
+   background: skyblue;
+   color: white;
+   border-radius: 7.5px;
+   border: none;
+   font-size: 20px;
+  }

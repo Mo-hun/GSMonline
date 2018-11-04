@@ -1,0 +1,44 @@
+.right
+{
+  text-align: right;
+}
+td{
+  border-top: hotpink 1px solid;
+  padding: 0px;
+  margin: 0px;
+}
+tr{
+  display: table-row;
+  vertical-align: inherit;
+  border-color: inherit;
+}
+table{
+  line-height: 1.5;
+  font-size: 20px;
+  border-spacing: 0px 0px;
+}
+.title{
+  width: 100vw;
+}
+.no{
+  text-align: center;
+  width: 20vw;
+}
+.comment{
+  text-align: center;
+  width: 20vw;
+}
+#main_title{
+  font-size: 20pt;
+  color: green;
+  font-family: 나눔바른고딕;
+}
+.text, .link, .tag{
+  font-size: 18pt;
+}
+.link{
+  color: hotpink;
+}
+.tag{
+  color: blue;
+}
