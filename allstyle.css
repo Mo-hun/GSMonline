@@ -54,7 +54,7 @@ div > img {
     font-size: 20px;
     margin-bottom: 20px;
   }
-  input[type="submit"] {
+  input[type="button"] {
    float: right;
    height: 70px;
    background: skyblue;
